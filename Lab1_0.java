@@ -33,7 +33,7 @@ public double toDouble()
 
 
 
-public class Lab1_0 {
+private class Lab1_0 {
 
 
 	
